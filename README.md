@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0169-majority-element) |
 | [3227-find-missing-and-repeated-values](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -33,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
