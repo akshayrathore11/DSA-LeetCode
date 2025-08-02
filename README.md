@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0050-powx-n) |
 | [3227-find-missing-and-repeated-values](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
