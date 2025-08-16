@@ -1,22 +1,26 @@
 class Solution {
 public:
-    double myPow(double x, int n) {
-            long long power = n;
-    double result = 1.0;
-
-    if (power < 0) {
-        x = 1 / x;
-        power = -power;
-    }
-
-    while (power > 0) {
-        if (power % 2 == 1) {      
-            result *= x;          
+    double myPow(double base, int exponent) {
+        long long longExponent = exponent;
+        
+        if (longExponent < 0) {
+            base = 1 / base;
+            longExponent = -longExponent;
         }
-        x *= x;                  
-        power /= 2;              
-    }
 
-    return result;
+        double result = 1.0;
+        
+        while (longExponent > 0) {
+            // If the exponent is odd, multiply the base with the result
+            if (longExponent % 2 == 1) {
+                result *= base;
+            }
+            
+            // Square the base and halve the exponent in each step
+            base *= base;
+            longExponent /= 2;
+        }
+        
+        return result;
     }
 };
