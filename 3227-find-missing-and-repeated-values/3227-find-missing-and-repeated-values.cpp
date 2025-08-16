@@ -1,29 +1,40 @@
 class Solution {
 public:
     vector<int> findMissingAndRepeatedValues(vector<vector<int>>& grid) {
-         int n = grid.size();
-    long long actualSum = 0, actualSquareSum = 0;
-    long long totalElements = n * n;
+        long long n = grid.size();
+        long long N = n * n;
+        
+        long long actualSum = 0;
+        long long actualSumSq = 0;
 
-    for (int row = 0; row < n; ++row) {
-        for (int col = 0; col < n; ++col) {
-            long long value = grid[row][col];
-            actualSum += value;
-            actualSquareSum += value * value;
+        for (int i = 0; i < n; ++i) {
+            for (int j = 0; j < n; ++j) {
+                long long val = grid[i][j];
+                actualSum += val;
+                actualSumSq += val * val;
+            }
         }
-    }
 
-    long long expectedSum = totalElements * (totalElements + 1) / 2;
-    long long expectedSquareSum = totalElements * (totalElements + 1) * (2 * totalElements + 1) / 6;
+        long long expectedSum = N * (N + 1) / 2;
+        long long expectedSumSq = N * (N + 1) * (2 * N + 1) / 6;
 
-    long long sumDifference = actualSum - expectedSum;
-    long long squareSumDifference = actualSquareSum - expectedSquareSum; 
+        long long sumDiff = actualSum - expectedSum;       // a - b
+        long long sumSqDiff = actualSumSq - expectedSumSq; // a^2 - b^2
 
-    long long sumOfBoth = squareSumDifference / sumDifference;
+        // a^2 - b^2 = (a - b)(a + b)
+        // (a + b) = (a^2 - b^2) / (a - b)
+        long long sum_a_b = sumSqDiff / sumDiff;
 
-    long long duplicate = (sumDifference + sumOfBoth) / 2;
-    long long missing = duplicate - sumDifference;
-
-    return {static_cast<int>(duplicate), static_cast<int>(missing)};
+        // We have two equations:
+        // 1. a - b = sumDiff
+        // 2. a + b = sum_a_b
+        
+        // Adding the two equations: 2a = sumDiff + sum_a_b
+        long long repeatedNum = (sumDiff + sum_a_b) / 2;
+        
+        // Subtracting the first from the second: 2b = sum_a_b - sumDiff
+        long long missingNum = (sum_a_b - sumDiff) / 2;
+        
+        return {(int)repeatedNum, (int)missingNum};
     }
 };
