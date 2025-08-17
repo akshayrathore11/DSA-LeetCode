@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0900-reordered-power-of-2](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
