@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 ## Backtracking
@@ -187,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0239-sliding-window-maximum) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
