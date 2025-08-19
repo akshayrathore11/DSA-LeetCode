@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0940-fruit-into-baskets](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0940-fruit-into-baskets) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3790-fruits-into-baskets-ii](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/3790-fruits-into-baskets-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0231-power-of-two) |
 | [0867-new-21-game](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0900-reordered-power-of-2) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
