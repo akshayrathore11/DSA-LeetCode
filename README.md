@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0867-new-21-game](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0867-new-21-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0567-permutation-in-string) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Depth-First Search
 |  |
 | ------- |
