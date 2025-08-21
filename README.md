@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3790-fruits-into-baskets-ii](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0242-valid-anagram) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Backtracking
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0042-trapping-rain-water) |
 | [1628-count-submatrices-with-all-ones](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
