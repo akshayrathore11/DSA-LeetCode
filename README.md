@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0567-permutation-in-string) |
 | [0900-reordered-power-of-2](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0940-fruit-into-baskets) |
 | [3227-find-missing-and-repeated-values](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0567-permutation-in-string](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0567-permutation-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0567-permutation-in-string) |
 | [0867-new-21-game](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0940-fruit-into-baskets) |
 ## Binary Search
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0567-permutation-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Backtracking
 |  |
