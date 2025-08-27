@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0231-power-of-two) |
 | [0867-new-21-game](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
