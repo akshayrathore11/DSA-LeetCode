@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0231-power-of-two) |
+| [0367-valid-perfect-square](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0367-valid-perfect-square) |
 | [0867-new-21-game](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0900-reordered-power-of-2) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/akshayrathore11/DSA-LeetCode/tree/master/3790-fruits-into-baskets-ii) |
